@@ -54,9 +54,9 @@
 | rsvg-convert | ARN: `arn:aws:lambda:us-east-1:145266761615:layer:rsvg-convert:2`<br>Link: [`serverlesspub/rsvg-convert-aws-lambda-binary`](https://github.com/serverlesspub/rsvg-convert-aws-lambda-binary) | all |
 | SoX | ARN: `arn:aws:lambda:us-east-1:145266761615:layer:sox:1`<br>Link: [`serverlesspub/sox-aws-lambda-binary`](https://github.com/serverlesspub/sox-aws-lambda-binary) | all |
 | SQLite Python | Link: [`dschep/sqlite-lambda-layer`](https://github.com/dschep/sqlite-lambda-layer) | `python3.6` |
+| Tensorflow + Keras | Link: [`antonpaquin/Tensorflow-Lambda-Layer`](https://github.com/antonpaquin/Tensorflow-Lambda-Layer) | `python3.6` |
 | Tesseract | Link: [`bweigel/aws-lambda-tesseract-layer`](https://github.com/bweigel/aws-lambda-tesseract-layer) | all |
 | WebScrapers Toolkit Python | Link: [`keithrozario/webscrapers-toolkit`](https://github.com/keithrozario/webscrapers-toolkit) | `python3.7`|
-| Tensorflow + Keras | Link: [`antonpaquin/Tensorflow-Lambda-Layer`](https://github.com/antonpaquin/Tensorflow-Lambda-Layer) | `python3.6` |
 
 
 

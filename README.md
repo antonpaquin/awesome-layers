@@ -56,6 +56,7 @@
 | SQLite Python | Link: [`dschep/sqlite-lambda-layer`](https://github.com/dschep/sqlite-lambda-layer) | `python3.6` |
 | Tesseract | Link: [`bweigel/aws-lambda-tesseract-layer`](https://github.com/bweigel/aws-lambda-tesseract-layer) | all |
 | WebScrapers Toolkit Python | Link: [`keithrozario/webscrapers-toolkit`](https://github.com/keithrozario/webscrapers-toolkit) | `python3.7`|
+| Tensorflow + Keras | Link: [`antonpaquin/Tensorflow-Lambda-Layer`](https://github.com/antonpaquin/Tensorflow-Lambda-Layer) | `python3.6` |
 
 
 
